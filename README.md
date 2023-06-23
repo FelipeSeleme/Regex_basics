@@ -3,4 +3,7 @@ Expressões regulares são padrões utilizados para selecionar combinações de 
 Em Python, as expressões regulares são implementadas pelo módulo `re`.  
 O módulo `re` deve ser importado para que você possa utilizar as expressões regulares.  
   
-O notebook [regex.ipynb](regex.ipynb) contém exemplos de expressões regulares e aplicação prática.
+## Índice
+- [regex.ipynb](regex.ipynb) - resumo sobre expressões regulares.
+  
+![img](operadores_caracteres.png)
